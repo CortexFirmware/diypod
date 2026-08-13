@@ -4,7 +4,7 @@ A compact open-source MP3 player built around the ESP32-C3 SuperMini and DFPlaye
 
 [![Demo Video](https://img.youtube.com/vi/0DcIXDLIxA4/0.jpg)](https://www.youtube.com/watch?v=0DcIXDLIxA4)
 
-*Watch the build and demo video on [YouTube @Cortex-Technology](youtube.com/@Cortex-Technology)*
+*Watch the build and demo video on [YouTube @Cortex-Technology](https://youtube.com/@Cortex-Technology)*
 
 ---
 
