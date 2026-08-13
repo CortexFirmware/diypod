@@ -228,24 +228,6 @@ If no voltage divider is connected the battery icon displays an X and low-batter
 
 ---
 
-## LED Visualizer Easter Egg
-
-A hidden WS2812B VU meter that runs passively whenever music is playing.
-
-### Additional Parts
-
-| Component | Notes |
-|---|---|
-| WS2812B LED strip | Any length, set NUM_LEDS in config.h |
-| 5V power supply | Power strip separately, share GND with board |
-| 300-470Ω resistor | Optional, on data line |
-
-### Wiring
-
-1. Connect **DAC_L** from DFPlayer → **GPIO0**
-2. Connect **LED strip data** → **GPIO21**
-3. Power strip from separate 5V supply, connect GND to board GND
-
 ### Tuning
 
 Adjust in `config.h`:
