@@ -477,7 +477,7 @@ void drawAbout() {
   drawSidePanel();
   drawAboutHints();
   drawMainPanel();
-  oled.drawBitmap(76, 17, bmp_IconFile, 24, 20, WHITE);
+  oled.drawBitmap(76, 19, bmp_IconFile, 24, 20, WHITE);
   oled.setTextSize(1);
   oled.setTextColor(WHITE);
   oled.drawBitmap(4, 19, bmp_IconArrow, 67, 10, WHITE);
