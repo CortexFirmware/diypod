@@ -1,8 +1,8 @@
 // ╔══════════════════════════════════════════════════════════════╗
-// ║                      display.h                              ║
-// ║  All OLED drawing functions. Each screen has a draw*()      ║
-// ║  function and matching draw*Hints() for the side panel.     ║
-// ║  redraw() clears and dispatches to the active screen.       ║
+// ║                      display.h                               ║
+// ║  All OLED drawing functions. Each screen has a draw*()       ║
+// ║  function and matching draw*Hints() for the side panel.      ║
+// ║  redraw() clears and dispatches to the active screen.        ║
 // ╚══════════════════════════════════════════════════════════════╝
 
 #pragma once
@@ -477,13 +477,13 @@ void drawAbout() {
   drawSidePanel();
   drawAboutHints();
   drawMainPanel();
-  oled.drawBitmap(76, 28, bmp_IconFile, 24, 20, WHITE);
+  oled.drawBitmap(76, 17, bmp_IconFile, 24, 20, WHITE);
   oled.setTextSize(1);
   oled.setTextColor(WHITE);
-  oled.setCursor(4, 17); oled.print("Get the files at:");
+  oled.setCursor(4, 17); oled.print("github.com/");
   oled.drawBitmap(4, 29, bmp_IconArrow, 67, 10, WHITE);
-  oled.setCursor(4, 42); oled.print("github.com/");
-  oled.setCursor(4, 52); oled.print("cortekz/diypod");
+  oled.setCursor(4, 42); oled.print("CortexFirmware/");
+  oled.setCursor(4, 52); oled.print("diypod");
 }
 
 // ── Game Difficulty Screens ───────────────────────────────────────
