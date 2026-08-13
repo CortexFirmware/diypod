@@ -480,8 +480,8 @@ void drawAbout() {
   oled.drawBitmap(76, 17, bmp_IconFile, 24, 20, WHITE);
   oled.setTextSize(1);
   oled.setTextColor(WHITE);
-  oled.setCursor(4, 17); oled.print("github.com/");
-  oled.drawBitmap(4, 29, bmp_IconArrow, 67, 10, WHITE);
+  oled.drawBitmap(4, 19, bmp_IconArrow, 67, 10, WHITE);
+  oled.setCursor(4, 32); oled.print("github.com/");
   oled.setCursor(4, 42); oled.print("CortexFirmware/");
   oled.setCursor(4, 52); oled.print("diypod");
 }
