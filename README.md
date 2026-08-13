@@ -10,11 +10,11 @@ A compact open-source MP3 player built around the ESP32-C3 SuperMini and DFPlaye
 
 ## Photos
 
-![](Images/DIYPOD Proto 1.jpg)
-![](Images/DIYPOD Proto 2.jpg)
-![](Images/DIYPOD Proto 3.jpg)
-![](Images/DIYPOD Proto 4.jpg)
-![](Images/DIYPOD Proto 5.jpg)
+![](Images/DIYPOD_Proto_1.jpg)
+![](Images/DIYPOD_Proto_2.jpg)
+![](Images/DIYPOD_Proto_3.jpg)
+![](Images/DIYPOD_Proto_4.jpg)
+![](Images/DIYPOD_Proto_5.jpg)
 ---
 
 ## Features
