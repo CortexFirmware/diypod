@@ -10,12 +10,11 @@ A compact open-source MP3 player built around the ESP32-C3 SuperMini and DFPlaye
 
 ## Photos
 
-![Front view showing OLED display and buttons](photos/DIYPOD_Proto_2.jpg)
-![Back view showing DFPlayer Mini, SD card slot, and LiPo battery](photos/DIYPOD_Proto_4.jpg)
-![Top view showing internals and USB-C charging port](photos/DIYPOD_Proto_5.jpg)
-![Side view showing wiring and component stack](photos/DIYPOD_Proto_3.jpg)
-![Opposite side view](photos/DIYPOD_Proto_1.jpg)
-
+![](photos/DIYPOD_Proto_1.jpg)
+![](photos/DIYPOD_Proto_2.jpg)
+![](photos/DIYPOD_Proto_3.jpg)
+![](photos/DIYPOD_Proto_4.jpg)
+![](photos/DIYPOD_Proto_5.jpg)
 ---
 
 ## Features
@@ -297,4 +296,4 @@ MIT License. See `LICENSE` for details.
 
 ---
 
-*Designed in the USA. [github.com/CortexFirmware/diypod](https://github.com/CortexFirmware/diypod) | [YouTube @CortekzTech](https://www.youtube.com/@CortekzTech)*
+*Designed in the USA. [github.com/CortexFirmware/diypod](https://github.com/CortexFirmware/diypod) | [YouTube @Cortekz-Technology](https://www.youtube.com/@Cortex-Technology)*
