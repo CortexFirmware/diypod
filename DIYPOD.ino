@@ -1,7 +1,7 @@
 /*
  * ╔══════════════════════════════════════════════════════════════╗
  * ║              DIYPOD Shuffle — Firmware v1.0                  ║
- * ║         github.com/cortekz/diypod  |  By Cortekz             ║
+ * ║       github.com/CortexFirmware/diypod  |  By Cortex         ║
  * ╚══════════════════════════════════════════════════════════════╝
  *
  * Hardware: ESP32-C3 SuperMini, DFPlayer Mini, SSD1306 OLED (128x64),
