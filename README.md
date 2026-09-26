@@ -8,6 +8,18 @@ A compact open-source MP3 player built around the ESP32-C3 SuperMini and DFPlaye
 
 ---
 
+## 🛒 Get the Hardware
+
+Support the project directly by grabbing the official hardware! Available on Etsy (US Only):
+
+| 🟩 Bare PCB Only | 🛠️ Full Component Kit | 📻 Fully Assembled & Tested |
+| :--- | :--- | :--- |
+| **$19.99** | **$39.99** | **$89.99** |
+| Perfect for experienced builders who want to source their own components. | Includes the PCB, 3D-printed case, and all electronic components. *(No battery)* | Ready-to-play right out of the box. Fully soldered, tested, and battery included. |
+| [👉 Buy Bare PCB](https://etsy.com/listing/4558410201/diypod-shuffle-pcb-esp32-c3-diy-mp3) | [👉 Buy Full Kit]([https://etsy.com](https://www.etsy.com/listing/4583100072/diypod-shuffle-full-component-kit-esp32) | [👉 Buy Pre-Built]([https://etsy.com](https://www.etsy.com/listing/4583116243/diypod-shuffle-full-component-kit-esp32) |
+
+---
+
 ## Photos
 
 ![](Images/DIYPOD%20Proto%201.jpg)
